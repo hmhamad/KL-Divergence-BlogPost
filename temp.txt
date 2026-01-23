@@ -1,0 +1,6 @@
+1) Efficient adaptation to new domains (LoRA, how to avoid catastrophic forgetting, etc.)
+
+2) How to encode domain-specific procedures, constraints, legal rules, clinical workflows, etc., into an agent’s planning system.
+
+3) How to create reliable evaluation sets when domain problems require expert annotation and have low inter-rater agreement.
+- 
